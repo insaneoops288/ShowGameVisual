@@ -11,7 +11,7 @@ Library: C:\UnityProject\ShowGameVisual\Temp\BurstOutput\Data\Plugins\x86_64\lib
 --linker-options=PdbAltPath="ShowGameVisual_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\UnityProject\ShowGameVisual\Temp\Burst
---key-folder=C:/Program Files/Unity/Hub/Editor/6000.5.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=C:/Program Files/Unity/Hub/Editor/6000.5.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\UnityProject\ShowGameVisual\Library\Burst
 --output=C:\UnityProject\ShowGameVisual\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
@@ -56,7 +56,7 @@ Library: C:\UnityProject\ShowGameVisual\Temp\BurstOutput\Data\Plugins\x86_64\lib
 --linker-options=PdbAltPath="ShowGameVisual_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\UnityProject\ShowGameVisual\Temp\Burst
---key-folder=C:/Program Files/Unity/Hub/Editor/6000.5.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--key-folder=C:/Program Files/Unity/Hub/Editor/6000.5.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\UnityProject\ShowGameVisual\Library\Burst
 --output=C:\UnityProject\ShowGameVisual\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
